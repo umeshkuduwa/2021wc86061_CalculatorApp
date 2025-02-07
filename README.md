@@ -8,8 +8,11 @@ The app features a user-friendly interface and real-time calculations.
 Features
 
 ✔️ Perform basic arithmetic operations (+, -, ×, ÷)
+
 ✔️ Clear button to reset calculations
+
 ✔️ Responsive and easy-to-use UI
+
 ✔️ Error handling for invalid inputs
 
 Tech Stack
